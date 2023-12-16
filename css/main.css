@@ -341,19 +341,19 @@ input[type='password']::-webkit-input-placeholder {
   cursor: pointer;
   }
 
-.menu-btn.open span { 
+.menu-btn.close span { 
   margin: -2px;
   }
 
-.menu-btn.open span:nth-child(1) {
+.menu-btn.close span:nth-child(1) {
   transform: rotate(-45deg);
   }
 
-.menu-btn.open span:nth-child(2) {
+.menu-btn.close span:nth-child(2) {
   transform: scale(0)
   }
 
-.menu-btn.open span:nth-child(3) {
+.menu-btn.close span:nth-child(3) {
   transform: rotate(45deg)
   }
 
