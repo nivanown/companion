@@ -1,0 +1,117 @@
+@import "https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,700&family=Merriweather&display=swap";
+@font-face {
+	font-family: 'icomoon';
+	src: url('../fonts/icomoon.eot?e3i5r');
+	src: url('../fonts/icomoon.eot?e3i5r#iefix') format('embedded-opentype'), url('../fonts/icomoon.ttf?e3i5r') format('truetype'), url('../fonts/icomoon.woff?e3i5r') format('woff'), url('../fonts/icomoon.svg?e3i5r#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+	font-display: block;
+}
+[class^="icon-"] {
+	&:before {
+		font-family: 'icomoon' !important;
+		speak: never;
+		font-style: normal;
+		font-weight: normal;
+		font-variant: normal;
+		text-transform: none;
+		line-height: 1;
+		-webkit-font-smoothing: antialiased;
+		-moz-osx-font-smoothing: grayscale;
+	}
+}
+[class*=" {
+	icon-"] {
+		&:before {
+			font-family: 'icomoon' !important;
+			speak: never;
+			font-style: normal;
+			font-weight: normal;
+			font-variant: normal;
+			text-transform: none;
+			line-height: 1;
+			-webkit-font-smoothing: antialiased;
+			-moz-osx-font-smoothing: grayscale;
+		}
+	}
+}
+.icon-down-arrow {
+	&:before {
+		content: "\e900";
+	}
+}
+.icon-next-arrow {
+	&:before {
+		content: "\e901";
+	}
+}
+.icon-search {
+	&:before {
+		content: "\e902";
+	}
+}
+.icon-shopping-cart {
+	&:before {
+		content: "\e903";
+	}
+}
+.icon-scroll-arrow {
+	&:before {
+		content: "\e904";
+	}
+}
+.icon-left-arrow {
+	&:before {
+		content: "\e905";
+	}
+}
+.icon-right-arrow {
+	&:before {
+		content: "\e906";
+	}
+}
+.icon-more-arrow {
+	&:before {
+		content: "\e907";
+	}
+}
+.icon-bullet {
+	&:before {
+		content: "\e908";
+	}
+}
+.icon-calendar {
+	&:before {
+		content: "\e909";
+	}
+}
+.icon-quote {
+	&:before {
+		content: "\e90a";
+	}
+}
+.icon-facebook {
+	&:before {
+		content: "\e90b";
+	}
+}
+.icon-instagram {
+	&:before {
+		content: "\e90c";
+	}
+}
+.icon-linkedin {
+	&:before {
+		content: "\e90d";
+	}
+}
+.icon-twitter {
+	&:before {
+		content: "\e90e";
+	}
+}
+.icon-youtube {
+	&:before {
+		content: "\e90f";
+	}
+}
