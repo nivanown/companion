@@ -10,7 +10,7 @@ $(window).on('load',function(){
 let toggleBtn = document.querySelector('.menu-btn');
 let navBar = document.querySelector('.header__col');
 toggleBtn.addEventListener('click', function () {
-  toggleBtn.classList.toggle('open');
+  toggleBtn.classList.toggle('close');
   navBar.classList.toggle('show');
 });
 
