@@ -705,7 +705,7 @@ input[type='password'] {
 	top: 0;
 	right: -5vw;
 	z-index: 5;
-	.offers-sticker__sticker {
+	.offers-sticker {
 		position: absolute;
 		bottom: 88px;
 		left: -100px;
@@ -720,7 +720,7 @@ input[type='password'] {
 		transform: rotate(360deg);
 	}
 }
-.offers-sticker__sticker {
+.offers-sticker {
 	width: 200px;
 	img {
 		width: 100%;

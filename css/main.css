@@ -723,16 +723,16 @@ input[type='password']::-webkit-input-placeholder {
   z-index: 5;
   }
 
-/* offers-sticker__sticker */
-.offers-sticker__sticker {
+/* offers-sticker */
+.offers-sticker {
   width: 200px;
   }
 
-.offers-sticker__sticker img {
+.offers-sticker img {
   width: 100%;
   }
 
-.offers-section__img-col .offers-sticker__sticker {
+.offers-section__img-col .offers-sticker {
   position: absolute;
   bottom: 88px;
   left: -100px;
